@@ -42,7 +42,7 @@ yst= 0.005;
 # Tangential component of the permittivity values 
 et1 = -100;
 et2 = -1/8;
-et3 = 100;
+et3 = -1/100;
 
 # Compute field amplitude maps 
 Emap1 =  Emap(xmin*a,xmax*a,ymin*a,ymax*a,xst*a,yst*a,et1);
