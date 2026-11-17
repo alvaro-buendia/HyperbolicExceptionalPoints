@@ -21,11 +21,9 @@ Pkg.instantiate()
 # ----------------------
 using LaTeXStrings
 using Plots
-using ProgressMeter
-using LinearAlgebra
 using Measures
 
-# ---------------------
+# ----------------------
 # Ensure results folder exists
 # ----------------------
 results_dir = joinpath(project_path, "results")
@@ -35,9 +33,8 @@ mkpath(results_dir)
 # List of figure scripts
 # ----------------------
 figures = [
-    "Fig1b.jl",
+    "Fig1c.jl",
     "Fig2.jl",
-    "FigS1.jl",
 ]
 
 # ----------------------
