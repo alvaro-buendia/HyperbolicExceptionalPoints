@@ -1,6 +1,6 @@
 # HyperbolicEPs
 
-Code to reproduce the figures of the article *"Exceptional point induced by hyperbolicity in an electrostatic spherical shell"* by Á. Buendía, M. S. Barreiro and N. M. R. Peres.
+Code to reproduce the figures of the article *"Spatial exceptional points induced by hyperbolicity in an electrostatic spherical shell"* by Á. Buendía, M. S. Barreiro and N. M. R. Peres.
 
 This guide explains how to set up the Julia environment and run the scripts that generate the figures stored in `results/`.
 
